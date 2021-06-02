@@ -1,0 +1,2 @@
+bash RNA23.sh
+bash RNA49.sh
