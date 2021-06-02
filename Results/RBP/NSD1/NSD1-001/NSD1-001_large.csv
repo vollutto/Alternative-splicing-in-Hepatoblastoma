@@ -1,0 +1,242 @@
+ACO1,ENSG00000122729,Homo_sapiens,CAGUGU,6,SELEX,8021254,ACONITASE_C,6,30,4.225,4.229,4.211
+ADAR,ENSG00000160710,Homo_sapiens,GCGC,4,X-RAY DIFFRACTION,17437712,A_DEAMIN;DSRM;Z-ALPHA,4,120;76;97,3.533,3.116,5.065
+ADAR,ENSG00000160710,Homo_sapiens,GCGCG,5,X-RAY DIFFRACTION,17437712,A_DEAMIN;DSRM;Z-ALPHA,5,120;76,5.05,5.119,7.114
+DDX58,ENSG00000107201,Homo_sapiens,GGCG,4,X-RAY DIFFRACTION,20961956,DEAD,4,119;75;108;111,3.552,3.343,4.704
+DHX58,ENSG00000108771,Homo_sapiens,GCGCG,5,X-RAY DIFFRACTION,19278996,HELICASE_C;RIG-I_C-RD;RESIII,5,120;76,5.05,5.119,7.114
+DHX9,ENSG00000135829,Homo_sapiens,CGCG,4,X-RAY DIFFRACTION,23361462,DEAD;DSRM;HA2;HELICASE_C;OB_NTP_BIND,4,121;77,3.605,3.442,5.724
+DHX9,ENSG00000135829,Homo_sapiens,GCGC,4,X-RAY DIFFRACTION,23361462,DEAD;DSRM;HA2;HELICASE_C;OB_NTP_BIND,4,120;76;97,3.533,3.116,5.065
+DHX9,ENSG00000135829,Homo_sapiens,GCGCG,5,X-RAY DIFFRACTION,23361462,DEAD;DSRM;HA2;HELICASE_C;OB_NTP_BIND,5,120;76,5.05,5.119,7.114
+F2,ENSG00000180210,Homo_sapiens,GAAG,4,X-RAY DIFFRACTION,18971322,GLA;KRINGLE;THROMBIN_LIGHT;TRYPSIN,4,129,0.318,-0.351,0.642
+FUS,ENSG00000089280,Homo_sapiens,GGGUGG,6,SELEX of 25nt random with recombinant protein. Consensus motif: GGUG. SDS-PAGE; EMSA; UV crosslink; competition and immunoprecipitation assays with HeLa nuclear extracts.,11098054,RRM,6,103,3.456,4.621,4.247
+FUS,ENSG00000089280,Homo_sapiens,GGUG,4,SELEX,11098054,ZF_RANBP;RRM,4,144;104,1.334,1.438,1.727
+GRSF1,ENSG00000132463,Homo_sapiens,AGGGA,5,protein affinity purification,17337441,RRM,5,135;131,3.115,3.519,3.393
+GRSF1,ENSG00000132463,Homo_sapiens,AGGGU,5,protein affinity purification,17337441,RRM,5,40;142,3.69,4.501,3.923
+GRSF1,ENSG00000132463,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,RRM,5,102,2.485,3.487,3.038
+GRSF1,ENSG00000132463,Homo_sapiens,AGGGG,5,protein affinity purification,17337441,RRM,5,71,2.162,2.776,2.905
+GRSF1,ENSG00000132463,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,RRM,5,101,1.637,2.181,2.333
+GRSF1,ENSG00000132463,Homo_sapiens,GGGGG,5,protein affinity purification,17337441,RRM,5,72,2.196,2.825,3.246
+HNRNPA1,ENSG00000135486,Homo_sapiens,GAGGAG,6,Competition assays with recombinant protein,16990281,RRM,6,124;138,4.268,3.513,5.185
+HNRNPA1,ENSG00000135486,Homo_sapiens,GGAGGA,6,UV crosslink and immunoprecipitation with Weri-1 and HeLa nuclear extracts.,12612063,RRM,6,137,3.305,2.631,4.033
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGA,5,RNA affinity binding assays; immunoblot with WT HeLa nuclear extracts or depleted by RNA affinity chromatography.,11571276,RRM;ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGA,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM;ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM;ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGU,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM;ZF_RNPHF,5,40;142,3.69,4.501,3.923
+HNRNPF,ENSG00000169813,Homo_sapiens,CGGGA,5,Mutational analysis; RNA affinity chromatography; UV cross-linking; immunoprecipitation with HeLa nuclear extract.,19404736,RRM;ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPF,ENSG00000169813,Homo_sapiens,CGGGA,5,RNA affinity chromatography assay and immunoblot.,11847131,RRM;ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPF,ENSG00000169813,Homo_sapiens,CGGGA,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM;ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPF,ENSG00000169813,Homo_sapiens,CGGGC,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM;ZF_RNPHF,5,113,3.254,2.937,4.722
+HNRNPF,ENSG00000169813,Homo_sapiens,CUGGGGU,7,NMR titration using recombinant protein,16885237,RRM;ZF_RNPHF,7,100,5.548,6.549,6.274
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGA,5,protein affinity purification,17337441,RRM;ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGU,5,protein affinity purification,17337441,RRM;ZF_RNPHF,5,40;142,3.69,4.501,3.923
+HNRNPF,ENSG00000169813,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,RRM;ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGG,5,protein affinity purification,17337441,RRM;ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPF,ENSG00000169813,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,RRM;ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPF,ENSG00000169813,Homo_sapiens,GGGGG,5,protein affinity purification,17337441,RRM;ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPF,ENSG00000169813,Homo_sapiens,GGAGGA,6,UV crosslink and immunoprecipitation with Weri-1 and HeLa nuclear extracts.,12612063,RRM;ZF_RNPHF,6,137,3.305,2.631,4.033
+HNRNPF,ENSG00000169813,Homo_sapiens,GGGGC,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,RRM;ZF_RNPHF,5,80;73,2.947,3.276,4.225
+HNRNPF,ENSG00000169813,Homo_sapiens,GGGGG,5,RNA affinity binding assays; immunoblot with WT HeLa nuclear extracts or depleted by RNA affinity chromatography.,11571276,RRM;ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPF,ENSG00000169813,Homo_sapiens,GGGGG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM;ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPF,ENSG00000169813,Homo_sapiens,GGGGU,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,RRM;ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPF,ENSG00000169813,Homo_sapiens,GGGGU,5,NMR titration using recombinant protein,16885237,RRM;ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPF,ENSG00000169813,Homo_sapiens,UGGGC,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM;ZF_RNPHF,5,106,2.087,2.117,2.583
+HNRNPF,ENSG00000169813,Homo_sapiens,UGGGG,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,RRM;ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPF,ENSG00000169813,Homo_sapiens,UGGGG,5,NMR titration using recombinant protein,16885237,RRM;ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPF,ENSG00000169813,Homo_sapiens,UGGGGU,6,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,RRM;ZF_RNPHF,6,101,3.952,5.05,4.278
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGA,5,Mutational analysis; RNA affinity chromatography; UV cross-linking; immunoprecipitation with HeLa nuclear extract.,19404736,RRM;ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPF,ENSG00000169813,Homo_sapiens,AGGGG,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,RRM;ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGAG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,125;139,2.677,2.187,3.026
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGA,5,In vivo splicing in HEK293T and HMVEC using wt or mutated constructs.,20028692,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGA,5,RNA affinity binding assays; immunoblot with WT HeLa nuclear extracts or depleted by RNA affinity chromatography.,11571276,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGA,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGU,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,40;142,3.69,4.501,3.923
+HNRNPH1,ENSG00000169045,Homo_sapiens,CGGGA,5,Mutational analysis; RNA affinity chromatography; UV cross-linking; immunoprecipitation with HeLa nuclear extract.,19404736,ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPH1,ENSG00000169045,Homo_sapiens,CGGGA,5,RNA affinity chromatography assay and immunoblot.,11847131,ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPH1,ENSG00000169045,Homo_sapiens,CGGGA,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPH1,ENSG00000169045,Homo_sapiens,CGGGC,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,113,3.254,2.937,4.722
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGA,5,protein affinity purification,17337441,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGU,5,protein affinity purification,17337441,ZF_RNPHF,5,40;142,3.69,4.501,3.923
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGG,5,protein affinity purification,17337441,ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPH1,ENSG00000169045,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGGG,5,protein affinity purification,17337441,ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGAGGA,6,UV crosslink and immunoprecipitation with Weri-1 and HeLa nuclear extracts.,12612063,ZF_RNPHF,6,137,3.305,2.631,4.033
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGGC,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,5,80;73,2.947,3.276,4.225
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGGC,5,RNA affinity binding assays; immunoblot with WT HeLa nuclear extracts or depleted by RNA affinity chromatography.,11571276,ZF_RNPHF,5,80;73,2.947,3.276,4.225
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGGG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGGU,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPH1,ENSG00000169045,Homo_sapiens,UGGGC,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,106,2.087,2.117,2.583
+HNRNPH1,ENSG00000169045,Homo_sapiens,UGGGG,5,EMSA; UV cross-linking; immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPH1,ENSG00000169045,Homo_sapiens,UGGGG,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPH1,ENSG00000169045,Homo_sapiens,UGGGGU,6,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,6,101,3.952,5.05,4.278
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGA,5,Mutational analysis; RNA affinity chromatography; UV cross-linking; immunoprecipitation with HeLa nuclear extract.,19404736,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH1,ENSG00000169045,Homo_sapiens,AGGGG,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPH1,ENSG00000169045,Homo_sapiens,CGGGC,5,EMSA; UV cross-linking; immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,ZF_RNPHF,5,113,3.254,2.937,4.722
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGGG,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGGU,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPH1,ENSG00000169045,Homo_sapiens,UGGGG,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGAG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,125;139,2.677,2.187,3.026
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGA,5,In vivo splicing in HEK293T and HMVEC using wt or mutated constructs.,20028692,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGA,5,RNA affinity binding assays; immunoblot with WT HeLa nuclear extracts or depleted by RNA affinity chromatography.,11571276,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGA,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGU,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,40;142,3.69,4.501,3.923
+HNRNPH2,ENSG00000126945,Homo_sapiens,CGGGA,5,Mutational analysis; RNA affinity chromatography; UV cross-linking; immunoprecipitation with HeLa nuclear extract.,19404736,ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPH2,ENSG00000126945,Homo_sapiens,CGGGA,5,RNA affinity chromatography assay and immunoblot.,11847131,ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPH2,ENSG00000126945,Homo_sapiens,CGGGA,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,67,3.505,2.94,4.712
+HNRNPH2,ENSG00000126945,Homo_sapiens,CGGGC,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,113,3.254,2.937,4.722
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGA,5,protein affinity purification,17337441,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGU,5,protein affinity purification,17337441,ZF_RNPHF,5,40;142,3.69,4.501,3.923
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGG,5,protein affinity purification,17337441,ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPH2,ENSG00000126945,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGG,5,protein affinity purification,17337441,ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGAGGA,6,UV crosslink and immunoprecipitation with Weri-1 and HeLa nuclear extracts.,12612063,ZF_RNPHF,6,137,3.305,2.631,4.033
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGAGGG,7,RNAcompete,23846655,ZF_RNPHF,7,132;68,5.523,7.504,6.509
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGC,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,5,80;73,2.947,3.276,4.225
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGC,5,RNA affinity binding assays; immunoblot with WT HeLa nuclear extracts or depleted by RNA affinity chromatography.,11571276,ZF_RNPHF,5,80;73,2.947,3.276,4.225
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGG,5,RNA affinity binding assays; immunoblot with WT HeLa nuclear extracts or depleted by RNA affinity chromatography.,11571276,ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGU,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPH2,ENSG00000126945,Homo_sapiens,UGGGC,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,ZF_RNPHF,5,106,2.087,2.117,2.583
+HNRNPH2,ENSG00000126945,Homo_sapiens,UGGGG,5,EMSA; UV cross-linking; immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPH2,ENSG00000126945,Homo_sapiens,UGGGG,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPH2,ENSG00000126945,Homo_sapiens,UGGGGU,6,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,6,101,3.952,5.05,4.278
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGA,5,Mutational analysis; RNA affinity chromatography; UV cross-linking; immunoprecipitation with HeLa nuclear extract.,19404736,ZF_RNPHF,5,135;131,3.115,3.519,3.393
+HNRNPH2,ENSG00000126945,Homo_sapiens,AGGGG,5,Mutation assay; REMSA; UV cross-linking in HeLa nuclear extract; Immunoblotting,12228232,ZF_RNPHF,5,71,2.162,2.776,2.905
+HNRNPH2,ENSG00000126945,Homo_sapiens,CGGGC,5,EMSA; UV cross-linking; immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,ZF_RNPHF,5,113,3.254,2.937,4.722
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGG,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,72,2.196,2.825,3.246
+HNRNPH2,ENSG00000126945,Homo_sapiens,GGGGU,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,102,2.485,3.487,3.038
+HNRNPH2,ENSG00000126945,Homo_sapiens,UGGGG,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,ZF_RNPHF,5,101,1.637,2.181,2.333
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGA,5,In vivo splicing in HEK293T and HMVEC using wt or mutated constructs.,20028692,RRM,5,135;131,3.115,3.519,3.393
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGA,5,RNA affinity binding assays; immunoblot with WT HeLa nuclear extracts or depleted by RNA affinity chromatography.,11571276,RRM,5,135;131,3.115,3.519,3.393
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGA,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM,5,135;131,3.115,3.519,3.393
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM,5,71,2.162,2.776,2.905
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGU,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM,5,40;142,3.69,4.501,3.923
+HNRNPH3,ENSG00000096746,Homo_sapiens,CGGGA,5,Mutational analysis; RNA affinity chromatography; UV cross-linking; immunoprecipitation with HeLa nuclear extract.,19404736,RRM,5,67,3.505,2.94,4.712
+HNRNPH3,ENSG00000096746,Homo_sapiens,CGGGA,5,RNA affinity chromatography assay and immunoblot.,11847131,RRM,5,67,3.505,2.94,4.712
+HNRNPH3,ENSG00000096746,Homo_sapiens,CGGGA,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM,5,67,3.505,2.94,4.712
+HNRNPH3,ENSG00000096746,Homo_sapiens,CGGGC,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM,5,113,3.254,2.937,4.722
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGA,5,protein affinity purification,17337441,RRM,5,135;131,3.115,3.519,3.393
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGU,5,protein affinity purification,17337441,RRM,5,40;142,3.69,4.501,3.923
+HNRNPH3,ENSG00000096746,Homo_sapiens,GGGGU,5,protein affinity purification,17337441,RRM,5,102,2.485,3.487,3.038
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGG,5,protein affinity purification,17337441,RRM,5,71,2.162,2.776,2.905
+HNRNPH3,ENSG00000096746,Homo_sapiens,UGGGG,5,protein affinity purification,17337441,RRM,5,101,1.637,2.181,2.333
+HNRNPH3,ENSG00000096746,Homo_sapiens,GGGGG,5,protein affinity purification,17337441,RRM,5,72,2.196,2.825,3.246
+HNRNPH3,ENSG00000096746,Homo_sapiens,GGAGGA,6,UV crosslink and immunoprecipitation with Weri-1 and HeLa nuclear extracts.,12612063,RRM,6,137,3.305,2.631,4.033
+HNRNPH3,ENSG00000096746,Homo_sapiens,GGGGG,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM,5,72,2.196,2.825,3.246
+HNRNPH3,ENSG00000096746,Homo_sapiens,UGGGC,5,RNA-affinity chromatography assays with HeLa nuclear extract and immunoblotting.,17337441,RRM,5,106,2.087,2.117,2.583
+HNRNPH3,ENSG00000096746,Homo_sapiens,UGGGG,5,EMSA; UV cross-linking; immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,RRM,5,101,1.637,2.181,2.333
+HNRNPH3,ENSG00000096746,Homo_sapiens,AGGGA,5,Mutational analysis; RNA affinity chromatography; UV cross-linking; immunoprecipitation with HeLa nuclear extract.,19404736,RRM,5,135;131,3.115,3.519,3.393
+HNRNPH3,ENSG00000096746,Homo_sapiens,CGGGC,5,EMSA; UV cross-linking; immunoprecipitation and Western blotting with HEK293T nuclear extract,20028692,RRM,5,113,3.254,2.937,4.722
+HNRNPH3,ENSG00000096746,Homo_sapiens,GGGGG,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,RRM,5,72,2.196,2.825,3.246
+HNRNPH3,ENSG00000096746,Homo_sapiens,GGGGU,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,RRM,5,102,2.485,3.487,3.038
+HNRNPH3,ENSG00000096746,Homo_sapiens,UGGGG,5,UV cross-linking; pull-down assay; immunoblotting in HeLa nuclear extracts with wt and mutated RNAs.,12732620,RRM,5,101,1.637,2.181,2.333
+HNRNPL,ENSG00000104824,Homo_sapiens,CACC,4,Pull-down assays; UV crosslink; immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,25;45;11,2.202,1.82,2.475
+HNRNPL,ENSG00000104824,Homo_sapiens,CACC,4,SELEX of 20nt random with recombinant protein. Consensus motif: ACACACAC. Pull-down assays; UV crosslink; immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,25;45;11,2.202,1.82,2.475
+HNRNPL,ENSG00000104824,Homo_sapiens,CACG,4,SELEX of 20nt random with recombinant protein. Consensus motif: ACACACAC. Pull-down assays; UV crosslink; immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,84,2.288,1.729,2.877
+HNRNPL,ENSG00000104824,Homo_sapiens,CCAC,4,SELEX of 20nt random with recombinant protein. Consensus motif: ACACACAC. Pull-down assays; UV crosslink; immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,10,0.577,0.326,0.833
+HNRNPL,ENSG00000104824,Homo_sapiens,GCAC,4,SELEX of 20nt random with recombinant protein. Consensus motif: ACACACAC. Pull-down assays; UV crosslink; immunoprecipitation with HeLa nuclear extracts. ,15889141,RRM,4,24;83,2.153,1.861,2.355
+IFIH1,ENSG00000115267,Homo_sapiens,UCCG,4,X-RAY DIFFRACTION,23273991,CARD;HELICASE_C;RESIII;RIG-I_C-RD,4,17,2.36,1.793,3.437
+KHSRP,ENSG00000088247,Homo_sapiens,AGGG,4,NMR,18684992,KH,4,135;131;71;40;142,2.622,3.082,3.12
+KHSRP,ENSG00000088247,Homo_sapiens,CCCCCUCC,8,RIP-chip,17437629,KH,8,47,6.588,7.293,7.733
+KHSRP,ENSG00000088247,Homo_sapiens,GGGU,4,NMR,18684992,KH,4,41;143;103,2.359,3.128,2.688
+KHSRP,ENSG00000088247,Homo_sapiens,UGGG,4,NMR,18684992,KH,4,106;101,0.96,1.326,1.27
+LIN28A,ENSG00000131914,Homo_sapiens,AGGAGAA,7,RNAcompete,23846655,ZF_CCHC;CSD,7,125,5.119,4.422,4.926
+MBNL1,ENSG00000152601,Homo_sapiens,CCGCUC,6,SELEX of 32nt random with recombinant protein. Consensus motifs: YGCY; YYYGCUKY.,20071745,ZF_CCCH,6,13;18,6.702,6.358,8.465
+MBNL1,ENSG00000152601,Homo_sapiens,GCGCUG,6,SELEX of 32nt random with recombinant protein. Consensus motifs: YGCY; YYYGCUKY.,20071745,ZF_CCCH,6,97,5.251,4.495,7.174
+MBNL1,ENSG00000152601,Homo_sapiens,CGCU,4,SELEX,20071745,ZF_CCCH,4,14;19;0;98,4.279,3.678,5.433
+NONO,ENSG00000147140,Homo_sapiens,AGGGA,5,SELEX,9001221,RRM,5,135;131,3.115,3.519,3.393
+NOVA1,ENSG00000139910,Homo_sapiens,UCACC,5,X-RAY DIFFRACTION,21742260,KH,5,44,2.654,2.346,2.767
+NOVA1,ENSG00000139910,Homo_sapiens,UCAC,4,SELEX,10811881,KH,4,44,0.899,0.897,0.771
+NOVA1,ENSG00000139910,Homo_sapiens,CCAC,4,NMR,17655233,KH,4,10,0.577,0.326,0.833
+NOVA1,ENSG00000139910,Homo_sapiens,UCAC,4,NMR,17655233,KH,4,44,0.899,0.897,0.771
+NOVA1,ENSG00000139910,Homo_sapiens,CCAG,4,NMR,17655233,KH,4,57;29,0.933,0.623,1.297
+NOVA2,ENSG00000104967,Homo_sapiens,UCAC,4,SELEX,10811881,KH,4,44,0.899,0.897,0.771
+NUDT21,ENSG00000167005,Homo_sapiens,UGUA,4,X-RAY DIFFRACTION,21295486,NUDIX_2,4,33,0.869,1.611,0.442
+PCBP1,ENSG00000169564,Homo_sapiens,CCCUCCC,7,Mutational analysis; UV cross-linking; Immunoprecipitation; competition assay in LNCaP extracts,12011088,KH,7,49,4.553,5.785,5.443
+PCBP2,ENSG00000197111,Homo_sapiens,CCCU,4,X-RAY DIFFRACTION,17526645,KH,4,49,0.157,0.334,0.791
+PCBP2,ENSG00000197111,Homo_sapiens,CCCUCCC,7,Mutational analysis; UV cross-linking; Immunoprecipitation; competition assay in LNCaP extracts,12011088,KH,7,49,4.553,5.785,5.443
+PCBP2,ENSG00000197111,Homo_sapiens,CCCCCCA,7,RNAcompete,23846655,KH,7,53,5.877,5.878,6.743
+PCBP2,ENSG00000197111,Homo_sapiens,CCUCCCC,7,RNAcompete,23846655,KH,7,50,4.664,5.486,5.647
+PCBP2,ENSG00000197111,Homo_sapiens,CCCUCCC,7,RNAcompete,23846655,KH,7,49,4.553,5.785,5.443
+PCBP2,ENSG00000197111,Homo_sapiens,UCCCCA,6,NMR,15331611,KH,6,7,3.584,3.919,4.197
+PCBP2,ENSG00000197111,Homo_sapiens,UCCCCA,6,NMR using recombinant protein,15331611,KH,6,7,3.584,3.919,4.197
+PPRC1,ENSG00000148840,Homo_sapiens,GGGCGCG,7,RNAcompete,23846655,RRM,7,74,6.737,7.391,8.422
+PTBP1,ENSG00000011304,Homo_sapiens,CUCU,4,SOLUTION NMR,16179478,RRM,4,4;2,1.146,1.534,1.265
+PTBP1,ENSG00000011304,Homo_sapiens,CUCUC,5,in vitro RNA pulldown,19861426,RRM,5,4;2,3.069,3.608,3.41
+PTBP1,ENSG00000011304,Homo_sapiens,CUCUCU,6,Immunodepletion; UV crosslink in WERI-1 and HeLa extracts; immunoprecipitation; immunoblot.,10911989,PTBP1,6,2,3.466,4.469,3.61
+PTBP1,ENSG00000011304,Homo_sapiens,CUCUCU,6,NMR,11788707,RRM,6,2,3.466,4.469,3.61
+PTBP1,ENSG00000011304,Homo_sapiens,CUCUCU,6,NMR; EMSA with recombinant protein,16179478,PTBP1,6,2,3.466,4.469,3.61
+PTBP1,ENSG00000011304,Homo_sapiens,CUCUCU,6,RNA affinity purification with HeLa or WERI-1 nuclear extracts. UV crosslink in HeLa and in WERI-1 extracts. EMSA with purified protein. Immunoprecipitation and Western blot.,11003644,PTBP1,6,2,3.466,4.469,3.61
+PTBP1,ENSG00000011304,Homo_sapiens,CUCUCU,6,SOLUTION NMR,16179478,RRM,6,2,3.466,4.469,3.61
+PTBP1,ENSG00000011304,Homo_sapiens,CUCUCU,6,UV crosslink in HeLa and WERI-1 nuclear extracts; competition assay; immunoprecipitation. EMSA supershift in HeLa nuclear extracts.,9234723,PTBP1,6,2,3.466,4.469,3.61
+PTBP1,ENSG00000011304,Homo_sapiens,CUCU,4,NMR,16179478,RRM,4,4;2,1.146,1.534,1.265
+PTBP1,ENSG00000011304,Homo_sapiens,CUCC,4,NMR,16179478,RRM,4,6;51;16,1.711,1.786,2.041
+PTBP1,ENSG00000011304,Homo_sapiens,CUAG,4,NMR,16179478,RRM,4,92,1.541,2.326,1.33
+PTBP1,ENSG00000011304,Homo_sapiens,CUCG,4,NMR,16179478,RRM,4,21,2.296,1.913,2.947
+PTBP1,ENSG00000011304,Homo_sapiens,CUGG,4,NMR,16179478,RRM,4,61;100,0.848,0.608,1.219
+PTBP1,ENSG00000011304,Homo_sapiens,UCUCU,5,Chemical shift mapping (NMR),11788707,PTBP1,5,3,1.755,2.64,1.688
+PTBP1,ENSG00000011304,Homo_sapiens,UCUCU,5,NMR,11788707,RRM,5,3,1.755,2.64,1.688
+PTBP1,ENSG00000011304,Homo_sapiens,UCUCU,5,SOLUTION NMR,16179478,RRM,5,3,1.755,2.64,1.688
+PTBP1,ENSG00000011304,Homo_sapiens,UCUCUC,6,UV crosslink; western blot; immunoprecipitation in HeLa nuclear extracts.,11931771,PTBP1,6,3,3.598,4.708,3.729
+PTBP1,ENSG00000011304,Homo_sapiens,UCUCU,5,NMR,16179478,RRM,5,3,1.755,2.64,1.688
+PTBP1,ENSG00000011304,Homo_sapiens,CCUCC,5,NMR,16179478,RRM,5,50,1.579,1.771,1.918
+PTBP1,ENSG00000011304,Homo_sapiens,UCUCC,5,NMR,16179478,RRM,5,5,2.011,2.298,2.255
+PTBP2,ENSG00000117569,Homo_sapiens,CUCUCU,6,RNA affinity purification with HeLa or WERI-1 nuclear extracts. UV crosslink in HeLa and in WERI-1 extracts. EMSA with purified protein. Immunoprecipitation and Western blot.,11003644,RRM,6,2,3.466,4.469,3.61
+RBM14,ENSG00000239306,Homo_sapiens,GCGCGGG,7,RNAcompete,23846655,RRM,7,76,6.716,7.161,9.653
+RBM14,ENSG00000239306,Homo_sapiens,GCGCGGG,7,RNAcompete,23846655,RRM,7,76,6.716,7.161,9.653
+RBM25,ENSG00000119707,Homo_sapiens,CGGGCA,6,Mutational analysis; immuoprecipitation assay in HeLa cells; EMSA and competition assay with recombinant protein.,18663000,RRM;PWI,6,113,5.44,4.937,6.335
+RBM4,ENSG00000173933,Homo_sapiens,GCGCGGG,7,RNAcompete using recombinant protein,19561594,RRM;ZF_CCHC,7,76,6.716,7.161,9.653
+RBM5,ENSG00000003756,Homo_sapiens,GAGGGAG,7,RNAcompete,23846655,ZF_RANBP,7,134,5.051,5.756,5.648
+RBM5,ENSG00000003756,Homo_sapiens,GAGGGUG,7,RNAcompete,23846655,ZF_RANBP,7,141,5.67,6.396,6.437
+RBM8A,ENSG00000265241,Homo_sapiens,GUGCGCU,7,RNAcompete,23846655,RRM,7,95,8.327,7.621,9.757
+SAMD4A,ENSG00000020577,Homo_sapiens,GCGGGCA,7,RNAcompete,23846655,SAM,7,112,7.065,6.761,8.094
+SAMD4A,ENSG00000020577,Homo_sapiens,GCUGGCC,7,RNAcompete,23846655,SAM,7,60,5.54,4.788,6.683
+SFPQ,ENSG00000116560,Homo_sapiens,GGAGGG,6,SELEX of 20nt random with recombinant protein. Consensus motif: UGGAGAGGAAC.,12403470,RRM,6,133;69;140,4.841,5.619,5.772
+SRP14,ENSG00000140319,Homo_sapiens,GUGG,4,X-RAY DIFFRACTION,11089964,SRP14,4,105,0.267,0.13,0.627
+SRP19,ENSG00000153037,Homo_sapiens,CCUC,4,X-RAY DIFFRACTION,20179341,SRP19,4,50,0.126,0.206,0.461
+SRP54,ENSG00000100883,Homo_sapiens,CCUC,4,X-RAY DIFFRACTION,12244299,SRP54;SRP_SPB,4,50,0.126,0.206,0.461
+SRP68,ENSG00000167881,Homo_sapiens,CCUC,4,X-RAY DIFFRACTION,24700861,SRP68,4,50,0.126,0.206,0.461
+SRSF1,ENSG00000136450,Homo_sapiens,AGGAGA,6,RNAcompete,23846655,RRM,6,125,3.564,2.989,3.674
+SRSF1,ENSG00000136450,Homo_sapiens,CCCCCCA,7,SELEX,16825284,RRM,7,53,5.877,5.878,6.743
+SRSF1,ENSG00000136450,Homo_sapiens,CCCCCCA,7,SELEX,16825284,RRM,7,53,5.877,5.878,6.743
+SRSF1,ENSG00000136450,Homo_sapiens,CGGGGCA,7,SELEX,16825284,RRM,7,79,7.113,6.907,8.745
+SRSF1,ENSG00000136450,Homo_sapiens,CCCGGGA,7,SELEX,16825284,RRM,7,65,6.432,6.101,7.216
+SRSF1,ENSG00000136450,Homo_sapiens,CCCACCG,7,SELEX,16825284,RRM,7,9,7.238,6.718,8.853
+SRSF1,ENSG00000136450,Homo_sapiens,CGCUCCG,7,SELEX,16825284,RRM,7,14,8.23,8.186,10.895
+SRSF1,ENSG00000136450,Homo_sapiens,CGCUGGG,7,SELEX,16825284,RRM,7,98,6.693,6.371,8.395
+SRSF1,ENSG00000136450,Homo_sapiens,CGGCGGG,7,SELEX,16825284,RRM,7,110,6.687,6.525,9.54
+SRSF1,ENSG00000136450,Homo_sapiens,CGCGGGG,7,SELEX,16825284,RRM,7,77,6.84,7.2,9.661
+SRSF1,ENSG00000136450,Homo_sapiens,GGAGGA,6,RNAcompete,23846655,RRM,6,137,3.305,2.631,4.033
+SRSF1,ENSG00000136450,Homo_sapiens,GGAGGAG,7,UV crosslink; competition assay; Western blot; EMSA using EX2 alpha-TM and purified proteins or HeLa nuclear extracts.,9848651,RRM,7,137,4.475,3.718,5.669
+SRSF1,ENSG00000136450,Homo_sapiens,GGAGGGA,7,RNAcompete,23846655,RRM,7,133,5.125,6.104,5.764
+SRSF1,ENSG00000136450,Homo_sapiens,GGAGGAG,7,RNAcompete,23846655,RRM,7,137,4.475,3.718,5.669
+SRSF1,ENSG00000136450,Homo_sapiens,GGAGGGG,7,RNAcompete,23846655,RRM,7,69,4.77,5.804,5.931
+SRSF1,ENSG00000136450,Homo_sapiens,GGCACGG,7,Functional SELEX of constructs with 20nt random by splicing in HeLa S100 extracts complemented by recombinant protein. Consensus motif: SRSASGA. UV crosslink; competition and immunoprecipitation assays in HeLa nuclear extracts.,9649504,RRM,7,82,7.38,7.154,8.077
+SRSF1,ENSG00000136450,Homo_sapiens,GGAGGAG,7,RNAcompete,23846655,RRM,7,137,4.475,3.718,5.669
+SRSF1,ENSG00000136450,Homo_sapiens,GGAGGA,6,RNAcompete,23846655,RRM,6,137,3.305,2.631,4.033
+SRSF2,ENSG00000161547,Homo_sapiens,AGGAGAA,7,SELEX of 20-nt random with recombinant protein. Consensus motif: UGUUCSAGWU; GWUWCCUGCUA; GGGUAUGCUG; GAGCAGUAGKS and AGGAGAU. Winners confirmed by EMSA with recombinant protein; UV crosslink; complementation assay; immunoprecipitations with HeLa S100 and nuclear extracts.,10094314,RRM,7,125,5.119,4.422,4.926
+SRSF2,ENSG00000161547,Homo_sapiens,GAGGAG,6,Competition assays with recombinant protein,16990281,RRM,6,124;138,4.268,3.513,5.185
+SRSF2,ENSG00000161547,Homo_sapiens,GGAGGA,6,UV crosslink and immunoprecipitation with Weri-1 and HeLa nuclear extracts.,12612063,RRM,6,137,3.305,2.631,4.033
+SRSF2,ENSG00000161547,Homo_sapiens,GGAGGAG,7,UV crosslink; competition assay; Western blot; EMSA using EX2 alpha-TM and purified proteins or HeLa nuclear extracts.,9848651,RRM,7,137,4.475,3.718,5.669
+SRSF2,ENSG00000161547,Homo_sapiens,GGAGAA,6,RNAcompete,23846655,RRM,6,126,3.626,2.863,3.774
+SRSF2,ENSG00000161547,Homo_sapiens,AGAAG,5,RNA affinity chromatography assay and immunoblot.,11847131,RRM,5,128,1.88,1.05,2.164
+SRSF2,ENSG00000161547,Homo_sapiens,AGGAG,5,RNA affinity chromatography assay and immunoblot.,11847131,RRM,5,125;139,2.677,2.187,3.026
+SRSF5,ENSG00000100650,Homo_sapiens,ACCGC,5,Functional SELEX of constructs with 20nt random by splicing in HeLa S100 extracts complemented by recombinant protein. Consensus motif: ACDGS. UV crosslink; competition and immunoprecipitation assays in HeLa nuclear extracts.,9649504,RRM,5,12,4.462,3.591,5.633
+SRSF5,ENSG00000100650,Homo_sapiens,GCAGG,5,Functional SELEX of constructs with 20nt random by splicing in HeLa S100 extracts complemented by recombinant protein. Consensus motif: ACDGS. UV crosslink; competition and immunoprecipitation assays in HeLa nuclear extracts.,9649504,RRM,5,116,1.867,1.889,2.527
+SRSF5,ENSG00000100650,Homo_sapiens,UCCGC,5,Functional SELEX of constructs with 20nt random by splicing in HeLa S100 extracts complemented by recombinant protein. Consensus motif: ACDGS. UV crosslink; competition and immunoprecipitation assays in HeLa nuclear extracts.,9649504,RRM,5,17,4.124,3.677,5.133
+SRSF9,ENSG00000111786,Homo_sapiens,AGGAG,5,EMSA using recombinant protein. UV cross-linking in HeLa and immunoprecipitation.,18534987,RRM,5,125;139,2.677,2.187,3.026
+SRSF9,ENSG00000111786,Homo_sapiens,AGGAG,5,SELEX of 20nt random with recombinant protein. Consensus motif: AGGAC. EMSA; UV crosslink; SDS-PAGE with HeLa nuclear extracts.,17548433,RRM,5,125;139,2.677,2.187,3.026
+SRSF9,ENSG00000111786,Homo_sapiens,AGGAGAA,7,RNAcompete,23846655,RRM,7,125,5.119,4.422,4.926
+SRSF9,ENSG00000111786,Homo_sapiens,GGGAGGA,7,RNAcompete,23846655,RRM,7,136,5.006,5.391,5.539
+TRA2B,ENSG00000136527,Homo_sapiens,AGAA,4,SOLUTION NMR,20926394,RRM,4,128,0.069,-0.397,-0.004
+XPO5,ENSG00000124571,Homo_sapiens,CCGC,4,X-RAY DIFFRACTION,19965479,XPO1,4,13;18,2.629,2.164,4.204
+YBX1,ENSG00000065978,Homo_sapiens,CACC,4,SELEX of 20nt random sequences with recombinant protein. Winners confirmed by EMSA with recombinant protein. ,22730292,CSD,4,25;45;11,2.202,1.82,2.475
+YTHDC1,ENSG00000083896,Homo_sapiens,UAGUGC,6,SELEX,20167602,YTH,6,93,5.905,6.474,5.607
+ZFP36,ENSG00000128016,Homo_sapiens,CCCUCC,6,RIP-chip,18367721,ZF_CCCH,6,49,3.294,3.891,4.203
+ZNF346,ENSG00000113761,Homo_sapiens,CCACC,5,SOLUTION NMR,24521053,ZF_C2H2,5,10,2.062,1.749,2.382
+ZRANB2,ENSG00000132485,Homo_sapiens,CGGUAA,6,SELEX of 25nt random with recombinant protein. Consensus motifs: CAGGUAA and AAGGUAA. Fluorescence anisotropy.,19304800,ZF_RANBP,6,86,7.25,8.487,8.277
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGG,4,Immunoprecipitation;UV cross-linking,15506926,ZF_RNPHF,4,80;73;72;102,2.146,2.645,3.046
+HNRNPH1,ENSG00000169045,Homo_sapiens,GGGA,4,snRNA inactivation in HeLa cell nuclear extract;Western blot,11847131;9343212,ZF_RNPHF,4,136;132;68,1.837,2.022,2.183
+NOVA1 ,ENSG00000139910,Homo_sapiens,UCAC,4,RNA affinity binding assays,15367696,KH,4,44,0.899,0.897,0.771
